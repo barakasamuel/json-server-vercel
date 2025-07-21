@@ -1,9 +1,13 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "goals": [
+    {
+      "id": "ff7c",
+      "name": "Enhance better coding",
+      "targetAmount": 8,
+      "category": "zzz",
+      "deadline": "2025-07-30",
+      "savedAmount": 2000,
+      "createdAt": "2025-07-20"
+    }
+  ]
 }
